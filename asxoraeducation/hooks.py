@@ -1,6 +1,6 @@
 from . import __version__ as app_version
 
-app_name = "asxoraEducation"
+app_name = "asxoraeducation"
 app_title = "Asxora Education App"
 app_publisher = ""
 app_description = "Asxora Education App"

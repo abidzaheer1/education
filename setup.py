@@ -4,12 +4,12 @@ with open("requirements.txt") as f:
 	install_requires = f.read().strip().split("\n")
 
 # get version from __version__ variable in education/__init__.py
-from asxoraEducation import __version__ as version
+from asxoraeducation import __version__ as version
 
 setup(
-	name="asxoraEducation",
+	name="asxoraeducation",
 	version=version,
-	description="asxoraEducation",
+	description="asxoraeducation",
 	author="Asxora Technology LLP",
 	author_email="abid@asxora.io",
 	packages=find_packages(),
