@@ -1,0 +1,89 @@
+{
+ "charts": [
+  {
+   "chart_name": "Admission trend",
+   "label": "Admission trend"
+  }
+ ],
+ "content": "[{\"id\":\"_I2E_fS8Xh\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\">Admissions</span>\",\"col\":12}},{\"id\":\"3gP1ALaHh7\",\"type\":\"number_card\",\"data\":{\"number_card_name\":\"admissions\",\"col\":4}},{\"id\":\"vsE1vBuKx8\",\"type\":\"chart\",\"data\":{\"chart_name\":\"Admission trend\",\"col\":12}},{\"id\":\"gSCHyEuCZg\",\"type\":\"card\",\"data\":{\"card_name\":\"Admissions Management\",\"col\":5}}]",
+ "creation": "2025-03-16 01:51:56.063687",
+ "custom_blocks": [],
+ "docstatus": 0,
+ "doctype": "Workspace",
+ "for_user": "",
+ "hide_custom": 0,
+ "icon": "assign",
+ "idx": 0,
+ "indicator_color": "green",
+ "is_hidden": 0,
+ "label": "Admissions",
+ "links": [
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Admissions Management",
+   "link_count": 4,
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Card Break"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Student Applicant",
+   "link_count": 0,
+   "link_to": "Student Applicant",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Student Admission",
+   "link_count": 0,
+   "link_to": "Student Admission",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Program Enrollment",
+   "link_count": 0,
+   "link_to": "Program Enrollment",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Course Enrollment",
+   "link_count": 0,
+   "link_to": "Course Enrollment",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  }
+ ],
+ "modified": "2025-03-19 01:17:48.151253",
+ "modified_by": "Administrator",
+ "module": "Education",
+ "name": "Admissions",
+ "number_cards": [
+  {
+   "label": "admissions",
+   "number_card_name": "admissions"
+  }
+ ],
+ "owner": "Administrator",
+ "parent_page": "",
+ "public": 1,
+ "quick_lists": [],
+ "roles": [],
+ "sequence_id": 4.0,
+ "shortcuts": [],
+ "title": "Admissions"
+}

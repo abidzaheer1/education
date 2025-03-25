@@ -1,0 +1,120 @@
+{
+ "charts": [
+  {
+   "chart_name": "fees collection",
+   "label": "fees collection"
+  }
+ ],
+ "content": "[{\"id\":\"Bz7JRLHbOk\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\">Fees Management</span>\",\"col\":12}},{\"id\":\"CyJq0Xi7QW\",\"type\":\"number_card\",\"data\":{\"number_card_name\":\"Number Fees collected\",\"col\":4}},{\"id\":\"D7cRBcOkX6\",\"type\":\"chart\",\"data\":{\"chart_name\":\"fees collection\",\"col\":12}},{\"id\":\"miv7PMD3XW\",\"type\":\"spacer\",\"data\":{\"col\":12}},{\"id\":\"QbNfNAL9un\",\"type\":\"card\",\"data\":{\"card_name\":\"Fees \",\"col\":5}},{\"id\":\"Pio0SyZTVi\",\"type\":\"card\",\"data\":{\"card_name\":\"Fees Reports\",\"col\":4}}]",
+ "creation": "2025-03-16 02:36:08.495383",
+ "custom_blocks": [],
+ "docstatus": 0,
+ "doctype": "Workspace",
+ "for_user": "",
+ "hide_custom": 0,
+ "icon": "money-coins-1",
+ "idx": 0,
+ "indicator_color": "green",
+ "is_hidden": 0,
+ "label": "Fees Management",
+ "links": [
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Fees ",
+   "link_count": 4,
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Card Break"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Fee Structure",
+   "link_count": 0,
+   "link_to": "Fee Structure",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Fee Category",
+   "link_count": 0,
+   "link_to": "Fee Category",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Fee Schedule",
+   "link_count": 0,
+   "link_to": "Fee Schedule",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Fees",
+   "link_count": 0,
+   "link_to": "Fees",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Fees Reports",
+   "link_count": 2,
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Card Break"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Program wise Fee Collection",
+   "link_count": 0,
+   "link_to": "Program wise Fee Collection",
+   "link_type": "Report",
+   "onboard": 0,
+   "report_ref_doctype": "Fees",
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Student Fee Collection",
+   "link_count": 0,
+   "link_to": "Student Fee Collection",
+   "link_type": "Report",
+   "onboard": 0,
+   "report_ref_doctype": "Fees",
+   "type": "Link"
+  }
+ ],
+ "modified": "2025-03-19 01:18:47.671749",
+ "modified_by": "Administrator",
+ "module": "Education",
+ "name": "Fees Management",
+ "number_cards": [
+  {
+   "label": "Number Fees collected",
+   "number_card_name": "Number Fees collected"
+  }
+ ],
+ "owner": "Administrator",
+ "parent_page": "",
+ "public": 1,
+ "quick_lists": [],
+ "roles": [],
+ "sequence_id": 6.0,
+ "shortcuts": [],
+ "title": "Fees Management"
+}

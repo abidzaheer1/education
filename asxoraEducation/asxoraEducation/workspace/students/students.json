@@ -1,0 +1,175 @@
+{
+ "charts": [
+  {
+   "chart_name": "Student Attendance",
+   "label": "Student Attendance"
+  }
+ ],
+ "content": "[{\"id\":\"fMRk1yzLUz\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\">Students</span>\",\"col\":12}},{\"id\":\"uQEyiuy9-v\",\"type\":\"number_card\",\"data\":{\"number_card_name\":\"Total students\",\"col\":4}},{\"id\":\"0Ed-GGT2wS\",\"type\":\"chart\",\"data\":{\"chart_name\":\"Student Attendance\",\"col\":12}},{\"id\":\"BznvjR75aE\",\"type\":\"card\",\"data\":{\"card_name\":\"Student and Instructor\",\"col\":6}},{\"id\":\"fiZcXe6jnx\",\"type\":\"card\",\"data\":{\"card_name\":\"Attendance \",\"col\":4}}]",
+ "creation": "2025-03-15 16:48:24.053119",
+ "custom_blocks": [],
+ "docstatus": 0,
+ "doctype": "Workspace",
+ "for_user": "",
+ "hide_custom": 0,
+ "icon": "share-people",
+ "idx": 0,
+ "indicator_color": "green",
+ "is_hidden": 0,
+ "label": "Students",
+ "links": [
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Student and Instructor",
+   "link_count": 5,
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Card Break"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Students",
+   "link_count": 0,
+   "link_to": "Student",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Instructors",
+   "link_count": 0,
+   "link_to": "Instructor",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Guardians",
+   "link_count": 0,
+   "link_to": "Guardian",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Student Group",
+   "link_count": 0,
+   "link_to": "Student Group",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Student Log",
+   "link_count": 0,
+   "link_to": "Student Log",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Attendance ",
+   "link_count": 6,
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Card Break"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Student Attendance",
+   "link_count": 0,
+   "link_to": "Student Attendance",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Student Leave Application",
+   "link_count": 0,
+   "link_to": "Student Leave Application",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Student Monthly Attendance Sheet",
+   "link_count": 0,
+   "link_to": "Student Monthly Attendance Sheet",
+   "link_type": "Report",
+   "onboard": 0,
+   "report_ref_doctype": "Student Attendance",
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Absent Student Report",
+   "link_count": 0,
+   "link_to": "Absent Student Report",
+   "link_type": "Report",
+   "onboard": 0,
+   "report_ref_doctype": "Student Attendance",
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Student Batch-Wise Attendance",
+   "link_count": 0,
+   "link_to": "Student Batch-Wise Attendance",
+   "link_type": "Report",
+   "onboard": 0,
+   "report_ref_doctype": "Student Attendance",
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Mark Attendance",
+   "link_count": 0,
+   "link_to": "Student Attendance Tool",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  }
+ ],
+ "modified": "2025-03-20 01:32:44.404478",
+ "modified_by": "Administrator",
+ "module": "Education",
+ "name": "Students",
+ "number_cards": [
+  {
+   "label": "Total students",
+   "number_card_name": "Total students"
+  }
+ ],
+ "owner": "Administrator",
+ "parent_page": "",
+ "public": 1,
+ "quick_lists": [],
+ "roles": [
+  {
+   "role": "Education Manager"
+  }
+ ],
+ "sequence_id": 2.0,
+ "shortcuts": [],
+ "title": "Students"
+}
