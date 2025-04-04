@@ -1,16 +1,17 @@
 {
+ "app": "education",
  "charts": [],
- "content": "[{\"id\":\"lam4ru8Vwl\",\"type\":\"spacer\",\"data\":{\"col\":12}},{\"id\":\"-tIKmyACCe\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\"><b>Your Shortcuts</b></span>\",\"col\":12}},{\"id\":\"ansamE74A1\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Student\",\"col\":3}},{\"id\":\"n1yMe06fh8\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Instructor\",\"col\":3}},{\"id\":\"HrpveBT00b\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Program\",\"col\":3}},{\"id\":\"s_kHqKqyTj\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Course\",\"col\":3}},{\"id\":\"6itCsz9BMs\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Fees\",\"col\":3}},{\"id\":\"J5OY9NdEav\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Student Monthly Attendance Sheet\",\"col\":3}},{\"id\":\"fEbTCKL5pn\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Course Scheduling Tool\",\"col\":3}},{\"id\":\"UXcdxu589Q\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Student Attendance Tool\",\"col\":3}},{\"id\":\"sgb3GR1jtE\",\"type\":\"spacer\",\"data\":{\"col\":12}},{\"id\":\"Sl6rnhTyB2\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\"><b>Reports &amp; Masters</b></span>\",\"col\":12}},{\"id\":\"3P4Y6eSb07\",\"type\":\"card\",\"data\":{\"card_name\":\"Student and Instructor\",\"col\":4}},{\"id\":\"dUSB5bYkKU\",\"type\":\"card\",\"data\":{\"card_name\":\"Masters\",\"col\":4}},{\"id\":\"ikgybLAQTz\",\"type\":\"card\",\"data\":{\"card_name\":\"Content Masters\",\"col\":4}},{\"id\":\"6Uorqa7zb4\",\"type\":\"card\",\"data\":{\"card_name\":\"Settings\",\"col\":4}},{\"id\":\"gay5R6Zezs\",\"type\":\"card\",\"data\":{\"card_name\":\"Admission\",\"col\":4}},{\"id\":\"yJhqq14_j_\",\"type\":\"card\",\"data\":{\"card_name\":\"Fees\",\"col\":4}},{\"id\":\"ez5ak52SWm\",\"type\":\"card\",\"data\":{\"card_name\":\"Schedule\",\"col\":4}},{\"id\":\"ZIgBS2o1QS\",\"type\":\"card\",\"data\":{\"card_name\":\"Attendance\",\"col\":4}},{\"id\":\"X4KWz-lZ61\",\"type\":\"card\",\"data\":{\"card_name\":\"Assessment\",\"col\":4}},{\"id\":\"4LGlGs7YBj\",\"type\":\"card\",\"data\":{\"card_name\":\"Assessment Reports\",\"col\":4}},{\"id\":\"nBRLcutpAE\",\"type\":\"card\",\"data\":{\"card_name\":\"Tools\",\"col\":4}},{\"id\":\"6cVtG9mv6X\",\"type\":\"card\",\"data\":{\"card_name\":\"Other Reports\",\"col\":4}}]",
+ "content": "[{\"id\":\"lam4ru8Vwl\",\"type\":\"spacer\",\"data\":{\"col\":12}},{\"id\":\"-tIKmyACCe\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\"><b>Your Shortcuts</b></span>\",\"col\":12}},{\"id\":\"ansamE74A1\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Student\",\"col\":3}},{\"id\":\"n1yMe06fh8\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Instructor\",\"col\":3}},{\"id\":\"HrpveBT00b\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Program\",\"col\":3}},{\"id\":\"s_kHqKqyTj\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Course\",\"col\":3}},{\"id\":\"6itCsz9BMs\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Fees\",\"col\":3}},{\"id\":\"J5OY9NdEav\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Student Monthly Attendance Sheet\",\"col\":3}},{\"id\":\"fEbTCKL5pn\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Course Scheduling Tool\",\"col\":3}},{\"id\":\"UXcdxu589Q\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Student Attendance Tool\",\"col\":3}},{\"id\":\"sgb3GR1jtE\",\"type\":\"spacer\",\"data\":{\"col\":12}},{\"id\":\"Sl6rnhTyB2\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\">Settings &amp; Tools</span>\",\"col\":12}},{\"id\":\"6Uorqa7zb4\",\"type\":\"card\",\"data\":{\"card_name\":\"Settings\",\"col\":4}},{\"id\":\"nBRLcutpAE\",\"type\":\"card\",\"data\":{\"card_name\":\"Tools\",\"col\":4}},{\"id\":\"RcaieNxFJY\",\"type\":\"spacer\",\"data\":{\"col\":12}},{\"id\":\"tgm4eyfNQu\",\"type\":\"paragraph\",\"data\":{\"text\":\"Explore all&nbsp;\",\"col\":12}},{\"id\":\"dUSB5bYkKU\",\"type\":\"card\",\"data\":{\"card_name\":\"Masters\",\"col\":4}},{\"id\":\"ikgybLAQTz\",\"type\":\"card\",\"data\":{\"card_name\":\"Content Masters\",\"col\":4}},{\"id\":\"gay5R6Zezs\",\"type\":\"card\",\"data\":{\"card_name\":\"Admission\",\"col\":4}},{\"id\":\"yJhqq14_j_\",\"type\":\"card\",\"data\":{\"card_name\":\"Fees\",\"col\":4}},{\"id\":\"ez5ak52SWm\",\"type\":\"card\",\"data\":{\"card_name\":\"Schedule\",\"col\":4}},{\"id\":\"ZIgBS2o1QS\",\"type\":\"card\",\"data\":{\"card_name\":\"Attendance\",\"col\":4}},{\"id\":\"X4KWz-lZ61\",\"type\":\"card\",\"data\":{\"card_name\":\"Assessment\",\"col\":4}},{\"id\":\"4LGlGs7YBj\",\"type\":\"card\",\"data\":{\"card_name\":\"Assessment Reports\",\"col\":4}},{\"id\":\"6cVtG9mv6X\",\"type\":\"card\",\"data\":{\"card_name\":\"Other Reports\",\"col\":4}},{\"id\":\"3P4Y6eSb07\",\"type\":\"card\",\"data\":{\"card_name\":\"Student and Instructor\",\"col\":4}}]",
  "creation": "2020-03-02 17:22:57.066401",
  "custom_blocks": [],
  "docstatus": 0,
  "doctype": "Workspace",
  "for_user": "",
  "hide_custom": 0,
- "icon": "education",
+ "icon": "setting",
  "idx": 0,
- "is_hidden": 1,
- "label": "Education",
+ "is_hidden": 0,
+ "label": "Settings & tools",
  "links": [
   {
    "hidden": 0,
@@ -681,13 +682,13 @@
    "type": "Link"
   }
  ],
- "modified": "2025-03-16 03:39:40.683391",
+ "modified": "2025-04-05 03:15:26.581118",
  "modified_by": "Administrator",
  "module": "Education",
- "name": "Education",
+ "name": "Settings & tools",
  "number_cards": [],
  "owner": "Administrator",
- "parent_page": "Selling",
+ "parent_page": "",
  "public": 1,
  "quick_lists": [],
  "restrict_to_domain": "",
@@ -738,6 +739,7 @@
   {
    "label": "Student Monthly Attendance Sheet",
    "link_to": "Student Monthly Attendance Sheet",
+   "report_ref_doctype": "Student Attendance",
    "type": "Report"
   },
   {
@@ -751,5 +753,6 @@
    "type": "DocType"
   }
  ],
- "title": "Education"
+ "title": "Settings & tools",
+ "type": "Workspace"
 }
