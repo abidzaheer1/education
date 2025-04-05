@@ -1,9 +1,6 @@
 {
  "charts": [
-  {
-   "chart_name": "Staff Attendence",
-   "label": "Staff Attendence"
-  }
+ 
  ],
  "content": "[{\"id\":\"64nB2zICK0\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\">Teachers</span>\",\"col\":12}},{\"id\":\"DPKxMAehOu\",\"type\":\"number_card\",\"data\":{\"number_card_name\":\"Total Employees\",\"col\":4}},{\"id\":\"AkYjEINJdo\",\"type\":\"chart\",\"data\":{\"chart_name\":\"Staff Attendence\",\"col\":12}},{\"id\":\"uoTvxbRfN0\",\"type\":\"card\",\"data\":{\"card_name\":\"Manage Teachers\",\"col\":4}}]",
  "creation": "2025-03-15 21:30:17.866741",

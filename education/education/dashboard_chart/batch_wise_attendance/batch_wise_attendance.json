@@ -1,0 +1,42 @@
+{
+ "chart_name": "Batch-wise Attendance",
+ "chart_type": "Report",
+ "creation": "2025-04-06 02:43:56.496136",
+ "currency": "",
+ "docstatus": 0,
+ "doctype": "Dashboard Chart",
+ "dynamic_filters_json": "{}",
+ "filters_json": "{\"date\":\"2025-04-06\"}",
+ "group_by_type": "Count",
+ "idx": 0,
+ "is_public": 1,
+ "is_standard": 1,
+ "modified": "2025-04-06 02:56:16.612654",
+ "modified_by": "Administrator",
+ "module": "Education",
+ "name": "Batch-wise Attendance",
+ "number_of_groups": 0,
+ "owner": "Administrator",
+ "report_name": "Student Batch-Wise Attendance",
+ "roles": [],
+ "time_interval": "Yearly",
+ "timeseries": 0,
+ "timespan": "Last Year",
+ "type": "Bar",
+ "use_report_chart": 0,
+ "x_field": "student_group",
+ "y_axis": [
+  {
+   "color": "#29CD42",
+   "y_field": "present"
+  },
+  {
+   "color": "#CB2929",
+   "y_field": "absent"
+  },
+  {
+   "color": "#d4cbcb",
+   "y_field": "not_marked"
+  }
+ ]
+}

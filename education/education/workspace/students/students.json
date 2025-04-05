@@ -1,9 +1,6 @@
 {
  "charts": [
-  {
-   "chart_name": "Student Attendance",
-   "label": "Student Attendance"
-  }
+  
  ],
  "content": "[{\"id\":\"fMRk1yzLUz\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\">Students</span>\",\"col\":12}},{\"id\":\"uQEyiuy9-v\",\"type\":\"number_card\",\"data\":{\"number_card_name\":\"Total students\",\"col\":4}},{\"id\":\"0Ed-GGT2wS\",\"type\":\"chart\",\"data\":{\"chart_name\":\"Student Attendance\",\"col\":12}},{\"id\":\"BznvjR75aE\",\"type\":\"card\",\"data\":{\"card_name\":\"Student and Instructor\",\"col\":6}},{\"id\":\"fiZcXe6jnx\",\"type\":\"card\",\"data\":{\"card_name\":\"Attendance \",\"col\":4}}]",
  "creation": "2025-03-15 16:48:24.053119",
