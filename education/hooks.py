@@ -4,10 +4,11 @@ app_name = "education"
 app_title = "Asxora Education App"
 app_publisher = ""
 app_description = "Asxora Education App"
-app_icon = "octicon octicon-file-directory"
+# app_icon = "octicon octicon-file-directory"
 app_color = "grey"
 app_email = "hello@asxora.io"
 app_license = "GNU GPL V3"
+app_logo_url = "/assets/erpnext/images/erpnext-logo.svg"
 
 required_apps = ["erpnext"]
 

@@ -6,11 +6,15 @@
    "label": "Batch-wise Attendance"
   },
   {
+   "chart_name": "students",
+   "label": "students"
+  },
+  {
    "chart_name": "Monthly Attendance",
    "label": "Monthly Attendance"
   }
  ],
- "content": "[{\"id\":\"YPoqQY83UI\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\">Admin Dashboard</span>\",\"col\":12}},{\"id\":\"rkTh4kiIVw\",\"type\":\"number_card\",\"data\":{\"number_card_name\":\"Total students\",\"col\":4}},{\"id\":\"_iVxB3E2Wc\",\"type\":\"number_card\",\"data\":{\"number_card_name\":\"Total Employees\",\"col\":4}},{\"id\":\"8Is6QnS_TI\",\"type\":\"spacer\",\"data\":{\"col\":12}},{\"id\":\"fAvxsDNPtp\",\"type\":\"chart\",\"data\":{\"chart_name\":\"Monthly Attendance\",\"col\":12}},{\"id\":\"uyZyU-cEud\",\"type\":\"chart\",\"data\":{\"chart_name\":\"Batch-wise Attendance\",\"col\":12}}]",
+ "content": "[{\"id\":\"YPoqQY83UI\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\">Admin Dashboard</span>\",\"col\":12}},{\"id\":\"rkTh4kiIVw\",\"type\":\"number_card\",\"data\":{\"number_card_name\":\"Total students\",\"col\":4}},{\"id\":\"_iVxB3E2Wc\",\"type\":\"number_card\",\"data\":{\"number_card_name\":\"Total Employees\",\"col\":4}},{\"id\":\"Rlf6AOjDCs\",\"type\":\"chart\",\"data\":{\"chart_name\":\"students\",\"col\":12}},{\"id\":\"8Is6QnS_TI\",\"type\":\"spacer\",\"data\":{\"col\":12}},{\"id\":\"fAvxsDNPtp\",\"type\":\"chart\",\"data\":{\"chart_name\":\"Monthly Attendance\",\"col\":12}},{\"id\":\"uyZyU-cEud\",\"type\":\"chart\",\"data\":{\"chart_name\":\"Batch-wise Attendance\",\"col\":12}}]",
  "creation": "2025-04-06 02:14:56.399043",
  "custom_blocks": [],
  "docstatus": 0,
@@ -24,7 +28,7 @@
  "label": "Admin Dashboard",
  "link_type": "DocType",
  "links": [],
- "modified": "2025-04-06 02:45:12.003800",
+ "modified": "2025-04-06 04:47:15.873683",
  "modified_by": "Administrator",
  "module": "Education",
  "name": "Admin Dashboard",
