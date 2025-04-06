@@ -8,7 +8,8 @@ app_description = "Asxora Education App"
 app_color = "grey"
 app_email = "hello@asxora.io"
 app_license = "GNU GPL V3"
-app_logo_url = "/assets/erpnext/images/erpnext-logo.svg"
+app_logo_url = "/assets/education/images/education-logo.svg"
+app_home = "/app/admin-dashboard"
 
 required_apps = ["erpnext"]
 
