@@ -13,6 +13,17 @@ app_home = "/app/admin-dashboard"
 
 required_apps = ["erpnext"]
 
+
+# fixtures
+fixtures = [
+    {"dt": "Web Page"},
+    {"dt": "Web Form"},
+    {"dt": "Portal Settings"},
+    {"dt": "Website Settings"},
+]
+
+
+
 # Includes in <head>
 # ------------------
 
