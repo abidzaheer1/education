@@ -1,1 +1,69 @@
-<h1>welcome to school</h1>
+<!-- Tailwind CSS CDN -->
+<script src="https://cdn.tailwindcss.com"></script>
+
+{% set website_settings = frappe.get_doc("Website Settings") %}
+
+<section class="min-h-screen flex flex-col bg-gradient-to-br from-blue-100 via-white to-blue-50">
+  
+  <!-- Navbar -->
+  <header class="flex justify-between items-center px-6 md:px-16 py-4 bg-white shadow">
+    <div class="flex items-center space-x-3">
+      <!-- App Logo from Website Settings -->
+      <img src="{{ website_settings.app_logo or website_settings.brand_html }}" alt="School Logo" class="h-16 w-auto">
+      <h1 class="text-2xl font-bold text-blue-800">Asxora School</h1>
+    </div>
+    <nav class="hidden md:flex space-x-6 text-gray-700 font-medium">
+      <a href="/" class="hover:text-blue-600">Home</a>
+      <a href="/about" class="hover:text-blue-600">About</a>
+      <a href="/admission-form" class="hover:text-blue-600">Admissions</a>
+      <a href="/contact" class="hover:text-blue-600">Contact</a>
+      <a href="/login" class="hover:text-blue-600">login</a>
+
+    </nav>
+  </header>
+
+  <!-- Hero Section -->
+  <div class="flex flex-col md:flex-row items-center justify-between px-6 md:px-16 py-20">
+    <div class="max-w-xl">
+      <h2 class="text-4xl md:text-5xl font-bold text-blue-900 leading-tight">
+        Welcome to <span class="text-blue-600">Asxora School</span>
+      </h2>
+      <p class="mt-6 text-lg text-gray-700">
+        Where learning begins with passion and ends with excellence. Discover a nurturing environment for your child's success.
+      </p>
+      <a href="/admission-form" class="mt-8 inline-block bg-blue-600 text-white px-6 py-3 rounded-full text-lg font-semibold hover:bg-blue-700 transition">
+        Apply for Admission
+      </a>
+    </div>
+    <img src="https://images.unsplash.com/photo-1571260899304-425eee4c7efc?auto=format&fit=crop&w=800&q=80" alt="Students" class="w-full md:w-1/2 mt-12 md:mt-0 rounded-xl shadow-lg">
+  </div>
+
+  <!-- Features Section -->
+  <section class="bg-white py-16 px-6 md:px-16">
+    <div class="grid md:grid-cols-3 gap-8">
+      <div class="text-center">
+        <div class="text-blue-600 text-5xl mb-4">📚</div>
+        <h3 class="text-xl font-semibold mb-2">Academic Excellence</h3>
+        <p class="text-gray-600">High-quality education with a focus on creativity, critical thinking, and leadership.</p>
+      </div>
+      <div class="text-center">
+        <div class="text-green-600 text-5xl mb-4">🏫</div>
+        <h3 class="text-xl font-semibold mb-2">Modern Campus</h3>
+        <p class="text-gray-600">State-of-the-art facilities, technology labs, and beautiful green spaces for learning.</p>
+      </div>
+      <div class="text-center">
+        <div class="text-yellow-500 text-5xl mb-4">🤝</div>
+        <h3 class="text-xl font-semibold mb-2">Community Values</h3>
+        <p class="text-gray-600">Fostering respect, empathy, and global citizenship in every student.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer class="text-center py-6 bg-gray-100 mt-auto">
+    <p class="text-gray-500">
+      &copy; {{ frappe.utils.nowdate().split('-')[0] }} Asxora School. All rights reserved.
+    </p>
+  </footer>
+
+</section>
