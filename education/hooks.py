@@ -29,8 +29,13 @@ app_include_js = "education.bundle.js"
 # website_theme_scss = "education/public/scss/website"
 
 # website
-update_website_context = []
-
+update_website_context = [
+#    { "splash_image": "/assets/education/images/education-logo.png"}
+]
+website_context = {
+	"favicon": '/assets/education/images/favicon.ico',
+    "splash_image": "/assets/education/images/education-logo.png"
+}
 website_generators = ["Student Admission"]
 
 website_route_rules = [
