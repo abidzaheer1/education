@@ -15,6 +15,7 @@
   "application_date",
   "application_status",
   "program",
+  "publish",
   "section_break_xuzu",
   "student_email_id",
   "student_admission",
@@ -289,11 +290,17 @@
    "fieldtype": "Link",
    "label": "Country",
    "options": "Country"
+  },
+  {
+   "default": "0",
+   "fieldname": "publish",
+   "fieldtype": "Check",
+   "label": "publish?"
   }
  ],
  "image_field": "image",
  "links": [],
- "modified": "2023-11-10 10:54:53.499881",
+ "modified": "2025-04-08 17:08:59.804056",
  "modified_by": "Administrator",
  "module": "Education",
  "name": "Student Applicant",
@@ -314,6 +321,7 @@
    "write": 1
   }
  ],
+ "row_format": "Dynamic",
  "show_name_in_global_search": 1,
  "sort_field": "modified",
  "sort_order": "DESC",
